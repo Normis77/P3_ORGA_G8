@@ -140,7 +140,20 @@ Simulación
 
 ### Conclusiones
 
-El desarrollo de esta práctica nos permitió consolidar nuestros conocimientos en el diseño e implementación de circuitos digitales combinacionales. A través de la construcción de una Unidad Aritmética Lógica (ALU) básica, logramos aplicar conceptos teóricos en un proyecto práctico, fortaleciendo nuestras habilidades en el manejo de componentes digitales como compuertas lógicas, sumadores, comparadores y multiplexores.
-Uno de los principales desafíos fue la implementación de la resta, ya que requería verificar si el minuendo era mayor que el sustraendo para evitar resultados negativos. Para resolver este problema, implementamos un circuito comparador que nos permitió mostrar un mensaje de error en caso de que el sustraendo fuera mayor que el minuendo.
-Además, la optimización del diseño fue un aspecto clave en este proyecto. Logramos diseñar un circuito eficiente que utiliza la menor cantidad de componentes posibles.
-El trabajo en equipo fue fundamental para el éxito del proyecto. Cada integrante contribuyó de manera significativa en diferentes aspectos del diseño, simulación y documentación. La colaboración y comunicación efectiva fueron clave para resolver los problemas que surgieron durante el desarrollo de la práctica.
+Aplicación de la Lógica Digital
+Se logró implementar un sistema funcional de parqueo inteligente utilizando lógica combinacional y secuencial. Esto permitió reforzar el uso de compuertas lógicas, flip-flops y contadores en un entorno práctico.
+
+Optimización Mediante Mapas de Karnaugh
+La utilización de Mapas de Karnaugh facilitó la simplificación de expresiones lógicas, lo que redujo la cantidad de componentes utilizados en el diseño del circuito, optimizando el rendimiento del sistema.
+
+Integración de Elementos Electromecánicos
+La práctica permitió comprender el funcionamiento de dispositivos como sensores de proximidad, servomotores y microcontroladores, lo que amplió la perspectiva sobre su aplicación en sistemas automatizados.
+
+Limitaciones y Desafíos
+Se identificaron ciertas restricciones en la implementación sin el uso extensivo de microcontroladores, lo que llevó a desarrollar soluciones alternativas con lógica secuencial pura, asegurando el cumplimiento de los requisitos del proyecto.
+
+Importancia del Diseño y la Simulación
+La simulación previa a la implementación física fue clave para detectar y corregir errores en el diseño, asegurando un funcionamiento óptimo antes de construir el sistema.
+
+Aprendizaje y Aplicabilidad
+La práctica permitió consolidar conocimientos en electrónica digital y automatización, habilidades esenciales en el diseño de sistemas inteligentes aplicables en distintos sectores industriales.
