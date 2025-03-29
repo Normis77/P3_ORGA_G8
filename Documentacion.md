@@ -107,6 +107,18 @@ Simulación
 <p align="center">
   <img src="Imagenes/4.png" alt="Plca contador" width="250"/>
 </p>
+<p align="center">
+  <img src="Imagenes/9.png" alt="Plca contador" width="250"/>
+</p>
+<p align="center">
+  <img src="Imagenes/10.png" alt="Plca contador" width="250"/>
+</p>
+<p align="center">
+  <img src="Imagenes/11.png" alt="Plca contador" width="250"/>
+</p>
+<p align="center">
+  <img src="Imagenes/12.png" alt="Plca contador" width="250"/>
+</p>
 
 ### Equipo utilizado
 
