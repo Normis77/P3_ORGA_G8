@@ -55,7 +55,9 @@ Este documento describe a detalle el planteamiento del problema, el análisis l�
 6. Resolver problemas prácticos empleando principios de electrónica digital.
 7. Identificar aplicaciones prácticas de la lógica secuencial en sistemas de control.
 
---## Proceso Teórico
+---
+
+## Proceso Teórico
 
 Para el desarrollo de la lógica secuencial del sistema de parqueo automatizado **TikalPark**, se hace uso del circuito integrado **74LS107**, un componente esencial que contiene dos flip-flops tipo JK con entradas de control específicas. Este dispositivo permite almacenar y controlar estados dentro del sistema digital, fundamental para la gestión del conteo de vehículos y el control de la lógica secuencial en general.
 
@@ -120,7 +122,11 @@ Simulación
   <img src="Imagenes/12.png" alt="Plca contador" width="250"/>
 </p>
 
+---
+
 ### Equipo utilizado
+---
+
 
 <p align="center">
   <img src="Imagenes/5.png" alt="Plca contador" width="250"/>
@@ -133,12 +139,16 @@ Simulación
 </p>
 
 
+---
 ### Presupuesto
+---
 <p align="center">
   <img src="Imagenes/8.png" alt="Placa contador" width="250"/>
 </p>
 
+---
 ### Conclusiones
+---
 
 Aplicación de la Lógica Digital
 Se logró implementar un sistema funcional de parqueo inteligente utilizando lógica combinacional y secuencial. Esto permitió reforzar el uso de compuertas lógicas, flip-flops y contadores en un entorno práctico.
