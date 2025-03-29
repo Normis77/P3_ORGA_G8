@@ -125,5 +125,10 @@ Simulación
 <p align="center">
   <img src="Imagenes/8.png" alt="Placa contador" width="250"/>
 </p>
+
 ### Conclusiones
 
+El desarrollo de esta práctica nos permitió consolidar nuestros conocimientos en el diseño e implementación de circuitos digitales combinacionales. A través de la construcción de una Unidad Aritmética Lógica (ALU) básica, logramos aplicar conceptos teóricos en un proyecto práctico, fortaleciendo nuestras habilidades en el manejo de componentes digitales como compuertas lógicas, sumadores, comparadores y multiplexores.
+Uno de los principales desafíos fue la implementación de la resta, ya que requería verificar si el minuendo era mayor que el sustraendo para evitar resultados negativos. Para resolver este problema, implementamos un circuito comparador que nos permitió mostrar un mensaje de error en caso de que el sustraendo fuera mayor que el minuendo.
+Además, la optimización del diseño fue un aspecto clave en este proyecto. Logramos diseñar un circuito eficiente que utiliza la menor cantidad de componentes posibles.
+El trabajo en equipo fue fundamental para el éxito del proyecto. Cada integrante contribuyó de manera significativa en diferentes aspectos del diseño, simulación y documentación. La colaboración y comunicación efectiva fueron clave para resolver los problemas que surgieron durante el desarrollo de la práctica.
